@@ -1,7 +1,7 @@
 const textEng = {
   language: "en",
   title: "Edoardo Rosiello | A Full Stack Web Developer based in Bergamo, Italy.",
-  presentation: "I\'m a Web Developer with knowledge on various languages and frameworks for full stack development. \nFor back-end side I\'m proficent with Java (Spring framework), Phyton and C#, while for operation on databases I use MySQL.\n While regarding front-end side my principal languages is Javascript and Typescript (Angular framework)",
+  presentation: "I\'m a Web Developer with knowledge on various languages and frameworks for full stack development. \nFor back-end side I\'m proficent with Java (Spring framework), Python and C#, while for operation on databases I use MySQL.\n While regarding front-end side my principal languages is Javascript and Typescript (Angular framework)",
   navigationProjects: "Projects",
   navigationAbout: "About",
   navigationContact: "Contact",
@@ -18,7 +18,7 @@ const textEng = {
 const textIta = {
   language: "it",
   title: "Edoardo Rosiello | Uno sviluppatore Web Full Stack da Bergamo, Italia.",
-  presentation: "Sono uno sviluppatore web che programma in vari linguaggi e framework.\nPer il lato back-end sono competente con l'uso di Java e Spring, Phyton e C#, mentre per operazioni sui database uso MySQL.\n Riguardo il lato front-end i miei linguaggi principali sono Javascript e Typescript, sfruttando in particolare Angular",
+  presentation: "Sono uno sviluppatore web che programma in vari linguaggi e framework.\nPer il lato back-end sono competente con l'uso di Java e Spring, Python e C#, mentre per operazioni sui database uso MySQL.\n Riguardo il lato front-end i miei linguaggi principali sono Javascript e Typescript, sfruttando in particolare Angular",
   navigationProjects: "Progetti",
   navigationAbout: "Su di me",
   navigationContact: "Contatti",
