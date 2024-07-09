@@ -22,7 +22,7 @@ const textIta = {
   navigationProjects: "Progetti",
   navigationAbout: "Su di me",
   navigationContact: "Contatti",
-  getInTouch: "Mettiti in contatto",
+  getInTouch: "Contattami",
   myProjectsTitle: "Alcuni dei miei progetti",
   ecommerce: "Applicazione web che simula un ecommerce di abiti.\nHo usato Typescript ed Angular per creare il front-end come Single page application, sfruttando il pattern MVVM.\nPer il back-end ho utilizzato Java Spring seguendo il pattern MVC e per la persistenza dei dati ho sfruttato Hibernate attraverso Spring.",
   githubEcommerce: "Visita il repository su Github",
